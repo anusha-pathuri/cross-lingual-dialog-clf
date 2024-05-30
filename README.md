@@ -6,7 +6,7 @@ In this project, I tackle the problem of domain classification for French, a _re
 
 The results reinforce that given the recent advancements in PLMs, domain identification is a somewhat trivial task with fully-supervised fine-tuning in the target language achieving near-perfect results (~0.98 F1) and even zero-shot transfer from the source not lagging far behind (~0.95 F1).
 
-See [Technical Report](Technical Report.pdf) for more details on methodology and results.
+See [Technical Report](Technical_Report.pdf) for more details on methodology and results.
 
 
 ### Dataset
